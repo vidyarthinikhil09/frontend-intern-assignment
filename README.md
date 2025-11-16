@@ -13,15 +13,15 @@ This is a frontend application built for the Frontend Internship Assignment. It 
 *(Optional, but highly recommended to add)*
 
 [Image of Desktop View]
- <img width="1842" height="887" alt="image" src="https://github.com/user-attachments/assets/fe2ab57d-26a1-4dc1-94e7-8e365224112f" />
+<img width="1842" height="887" alt="image" src="https://github.com/user-attachments/assets/fe2ab57d-26a1-4dc1-94e7-8e365224112f" />
 
 
 [Image of Mobile View]
- ![mobile View](https://github.com/user-attachments/assets/1adde10d-e96a-40e4-a097-d48739696f00)
+ (https://github.com/user-attachments/assets/1adde10d-e96a-40e4-a097-d48739696f00)
 
 
-| Cart Dropdown |
-| <img width="639" height="487" alt="image" src="https://github.com/user-attachments/assets/74371838-4403-4297-ae38-4419189355bf" />
+[Cart Dropdown]
+<img width="639" height="487" alt="image" src="https://github.com/user-attachments/assets/74371838-4403-4297-ae38-4419189355bf" />
 
 ---
 
